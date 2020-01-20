@@ -24,6 +24,7 @@ namespace WebApiDesignPatterns.Controllers
         // POST api/values
         public void Post([FromBody]string value)
         {
+            // comment for test
         }
 
         // PUT api/values/5
